@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Victor 👋</h1>
+<!-- <h1 align="center">Hi, I'm Victor 👋</h1>
 <p align="center">
   Data Analyst | Data Scientist | ML Engineer | 
 </p>
 
 
 ## 🔭 About me
-- Currently exploring projects in **Computer Vision** 
+- Currently exploring projects in **Computer Vision**  -->
 
 
-## 🛠️ Tech stack
+## Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
